@@ -1,0 +1,7 @@
+5 images (10 images are included)
+1 Ordered or Unordered List(1 unordered list is included (Curriculam/Primary School))
+1 Simple animation (yes more that 1)
+1 Table with data (yes,(News and Events/Events))
+5 hyperlinks (yes, 1 link to YouTube and others to go into different screens)
+1 Simple JavaScript function (one function is used to display quotes and change them every 30 seconds)
+Responsive web page design(yes, tested with both mobile and desktop devices)
